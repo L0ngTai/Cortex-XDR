@@ -7,7 +7,7 @@
 - **sudo cp cortex.conf /etc/panw/**
 - **sudo yum -y install selinux-policy-devel**
 - **chmod +x cortex-8.2.0.118335.sh**
-- ***./cortex-8.2.0.118335.sh**
+- **./cortex-8.2.0.118335.sh**
 - **/opt/traps/bin/cytool runtime stop all**
 - **/opt/traps/bin/cytool runtime start all**
 
